@@ -1,0 +1,19 @@
+{
+  "id": "cd462ce9-795b-4c29-afab-dadc6e6fe7d9",
+  "siteTitle": "Nature Site",
+  "hostName": "natureboy",
+  "licenseInformation": {
+    "salesForceId": "cd462ce9-795b-4c29-afab-dadc6e6fe7d9",
+    "startDate": "1562859527480",
+    "mindTouchVersion": [
+      { "id": "1", "name": "Mindtouch Responsive" },
+      { "id": "2", "name": "Mindtouch TCS" },
+      { "id": "3", "name": "Mindtouch 4" },
+      { "id": "4", "name": "Mindtouch 4 with responsive ready content" }
+    ],
+    "integrationsEnabled": true,
+    "contactName": "Tess Pearson",
+    "contactEmail": "tess-pearson@gmail.com",
+    "contactPhone": "555-555-5555"
+  }
+}
