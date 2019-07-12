@@ -23,6 +23,7 @@ class App extends Component {
             <Route exact path="/" component={Home} />
             <Route exact path="/create-site" component={CreateEditSite} />
           </Switch>
+          <i className="nes-octocat animate" />
         </div>
       </Container>
     );

@@ -29,8 +29,9 @@ class Home extends Component {
         header: 'Start Date'
       }
     ];
+
     return (
-      <div>
+      <div className="home-container">
         <Table data={this.props.siteData} tableColumns={tableColumns} />
       </div>
     );

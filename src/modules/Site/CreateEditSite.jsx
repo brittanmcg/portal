@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import GeneralSiteInfo from './components/GeneralSiteInfo';
+import LicenseInfo from './components/LicenseInfo';
 import * as asyncActions from './asyncActions';
 
 class CreateEditSite extends Component {
@@ -26,6 +27,7 @@ class CreateEditSite extends Component {
       <form onSubmit={this.handleSubmit}>
         <h2>Create Site</h2>
         <GeneralSiteInfo handleChange={this.handleChange} />
+        <LicenseInfo handleChange={this.handleChange} />
         <input className="nes-btn is-primary" type="submit" value="Submit" />
       </form>
     );

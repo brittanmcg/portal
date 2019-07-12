@@ -5,6 +5,8 @@
   "dependencies": {
     "axios": "^0.19.0",
     "connected-react-router": "^6.5.0",
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
     "lodash": "^4.15.0",
     "lodash.template": "4.5.0",
     "nes-react": "^1.0.2",

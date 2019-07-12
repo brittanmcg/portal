@@ -1,19 +1,44 @@
-{
-  "id": "cd462ce9-795b-4c29-afab-dadc6e6fe7d9",
-  "siteTitle": "Nature Site",
-  "hostName": "natureboy",
-  "licenseInformation": {
-    "salesForceId": "cd462ce9-795b-4c29-afab-dadc6e6fe7d9",
-    "startDate": "1562859527480",
-    "mindTouchVersion": [
-      { "id": "1", "name": "Mindtouch Responsive" },
-      { "id": "2", "name": "Mindtouch TCS" },
-      { "id": "3", "name": "Mindtouch 4" },
-      { "id": "4", "name": "Mindtouch 4 with responsive ready content" }
-    ],
-    "integrationsEnabled": true,
-    "contactName": "Tess Pearson",
-    "contactEmail": "tess-pearson@gmail.com",
-    "contactPhone": "555-555-5555"
+[
+  {
+    "id": "cd462ce9-795b-4c29-afab-dadc6e6fe7d9",
+    "siteTitle": "Taco Site",
+    "hostName": "ilovetacos",
+    "licenseInformation": {
+      "salesForceId": "cd462ce9-795b-4c29-afab-dadc6e6fe7d9",
+      "startDate": "1562859527480",
+      "mindTouchVersion": { "id": "1", "name": "Mindtouch Responsive" },
+      "integrationsEnabled": true,
+      "contactName": "Taco Guy",
+      "contactEmail": "ilovetacos@gmail.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": "c8c099b0-4555-4f44-bc6f-498e046c3934",
+    "siteTitle": "Get Dogs Here",
+    "hostName": "dogs",
+    "licenseInformation": {
+      "salesForceId": "92bd8bb8-3df0-471d-b34d-dfa5f93e31f8",
+      "startDate": "1562859527480",
+      "mindTouchVersion": { "id": "3", "name": "Mindtouch 4" },
+      "integrationsEnabled": true,
+      "contactName": "Butch Cassidy",
+      "contactEmail": "sundance-kid@gmail.com",
+      "contactPhone": "555-555-5555"
+    }
+  },
+  {
+    "id": "b5d25327-4881-48ac-9a5b-b6d4219a1d21",
+    "siteTitle": "Nature Site",
+    "hostName": "natureboy",
+    "licenseInformation": {
+      "salesForceId": "08c1c6f0-ff30-40a7-adab-98d366fd05f9",
+      "startDate": "1562859527480",
+      "mindTouchVersion": { "id": "3", "name": "Mindtouch 4" },
+      "integrationsEnabled": true,
+      "contactName": "Tess Pearson",
+      "contactEmail": "tess-pearson@gmail.com",
+      "contactPhone": "555-555-5555"
+    }
   }
-}
+]

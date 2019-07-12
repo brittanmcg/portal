@@ -127,6 +127,8 @@ export default class Table extends Component {
 
     if (!data) return null;
 
+    console.log('tableData: ', data);
+
     return (
       <div className="nes-table-responsive">
         <table className="nes-table is-bordered is-centered">

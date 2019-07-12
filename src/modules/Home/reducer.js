@@ -7,7 +7,7 @@ export default function(state = {}, action = {}) {
         ...state,
         list: {
           ...state.list,
-          siteData: [action.payload]
+          siteData: action.payload
         }
       };
 
