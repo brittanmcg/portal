@@ -2,15 +2,10 @@ import React, { Component } from 'react';
 import { Route, Link, Switch } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { Container } from 'nes-react';
-import { simpleAction } from './actions/simpleAction';
 import Home from './modules/Home/Home';
 import CreateEditSite from './modules/Site/CreateEditSite';
 import './App.css';
 class App extends Component {
-  simpleAction = event => {
-    this.props.simpleAction();
-  };
-
   render() {
     return (
       <Container>
@@ -34,9 +29,7 @@ class App extends Component {
   }
 }
 
-const mapDispatchToProps = dispatch => ({
-  simpleAction: () => dispatch(simpleAction())
-});
+const mapDispatchToProps = dispatch => ({});
 
 const mapStateToProps = state => ({
   ...state
