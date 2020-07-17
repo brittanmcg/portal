@@ -7,7 +7,7 @@
     "connected-react-router": "^6.5.0",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
-    "lodash": "^4.15.0",
+    "lodash": "^4.17.19",
     "lodash.template": "4.5.0",
     "nes-react": "^1.0.2",
     "nes.css": "^2.2.0",
